@@ -1,0 +1,27 @@
+.Profile {
+  text-align: center;
+
+}
+
+.user-name {
+  font-family: Roboto;
+  color: rgb(2, 2, 3);
+  font-weight: normal;
+}
+
+.user-profile-pic {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  /* aspect-ratio: 1/1; */
+  /*Youtube= 16/9, Old Tv = 4/3, Chinema =21/9 */
+}
+
+.user-first-name {
+  font-weight: bold;
+  color: rgb(22, 83, 250);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  text-transform: uppercase;
+}
